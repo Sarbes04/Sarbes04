@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm SARVESH SINGH</h1>
-<h3 align="center">Hi! I'm Sarvesh Singh, a B.Tech Mechanical Engineering student from Maulana Azad National Institute of Technology, Bhopal, India with a deep passion for software development.I have built several full-stack applications and actively explore AI-integrated systems, web development, and problem solving.</h3>
+<h3 align="center">Hi! I'm Sarvesh Singh, a B.Tech Mechanical Engineering student at Maulana Azad National Institute of Technology, Bhopal, India with a deep passion for software development.I have built several full-stack applications and actively explore AI-integrated systems, web development, and problem solving.</h3>
 
 - My Resume [https://drive.google.com/file/d/1DTTPYrP2Q7v4dVqeMbn1teJvdx7v5DBo/view?usp=sharing](https://drive.google.com/file/d/1DTTPYrP2Q7v4dVqeMbn1teJvdx7v5DBo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/survaesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="survaesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarvesh-singh-b4a883252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-singh-b4a883252" height="30" width="40" /></a>
 <a href="https://instagram.com/sarvesh.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvesh.04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarvesh412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvesh412" height="30" width="40" /></a>
 </p>
