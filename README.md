@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SARVESH SINGH</h1>
-<h3 align="center">Hi! I'm Sarvesh Singh, a B.Tech Mechanical Engineering student at Maulana Azad National Institute of Technology, Bhopal, India with a deep passion for software development.I have built several full-stack applications and actively explore AI-integrated systems, web development, and problem solving.</h3>
+<h3 align="center">Hi! I'm Sarvesh Singh, a B.Tech Mechanical Engineering student from Maulana Azad National Institute of Technology, Bhopal, India with a deep passion for software development.I have built several full-stack applications and actively explore AI-integrated systems, web development, and problem solving.</h3>
 
 - My Resume [https://drive.google.com/file/d/1DTTPYrP2Q7v4dVqeMbn1teJvdx7v5DBo/view?usp=sharing](https://drive.google.com/file/d/1DTTPYrP2Q7v4dVqeMbn1teJvdx7v5DBo/view?usp=sharing)
 
